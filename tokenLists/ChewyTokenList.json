@@ -39,7 +39,7 @@
         },
         {
             "chainId": 2000,
-            "address": "0x44aA2dfe660439E9a93483EC665Bf20dE62CEc2B",
+            "address": "0x44aA2dfe660439E9a93483EC665Bf20dE62CEc2C",
             "decimals": 18,
             "name": "Shiba Inu",
             "symbol": "SHIB",
