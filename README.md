@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/PooDoge/chewyswap-tokenlist/blob/main/tokens/chewy.png?raw=true "ChewySwap, Baby!")
 
-List of token infomation and logos for [Chewyswap's](https://chewyswap.dog) Community-Based Decentralized Exchange on [Dogechain](https://chewyswap.dog)!
+List of token infomation and logos for [Chewyswap's](https://chewyswap.dog) Community-Based Decentralized Exchange on [Shibarium](https://shib.io) / [Dogechain](https://dogechain.dog)(soon)!
 
 
 ## How to Submit your Token
