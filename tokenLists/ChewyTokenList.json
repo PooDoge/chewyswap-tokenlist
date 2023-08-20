@@ -1,0 +1,50 @@
+{
+    "name": "ChewySwap Tokens",
+    "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/dogeShrek.png",
+    "keywords": [
+        "Shibarium",
+        "DeFi",
+        "BONE",
+        "bridge"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 1,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 2000,
+            "address": "0x2BE0096B24343549E34224aa9aa297E99961023D",
+            "decimals": 18,
+            "name": "Chewy",
+            "symbol": "Chewy",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/chewy.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+            "decimals": 18,
+            "name": "Wrapped BONE",
+            "symbol": "WBONE",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/wbone.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x44aA2dfe660439E9a93483EC665Bf20dE62CEc2B",
+            "decimals": 18,
+            "name": "EndlessWebWorlds",
+            "symbol": "EWW",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/eww.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0x44aA2dfe660439E9a93483EC665Bf20dE62CEc2B",
+            "decimals": 18,
+            "name": "Shiba Inu",
+            "symbol": "SHIB",
+            "logoURI": "https://raw.githubusercontent.com/PooDoge/chewyswap-tokenlist/main/tokens/shib.png"
+        },
+    ],
+    "timestamp": "2023-08-19T12:00:00+00:00"
+}
